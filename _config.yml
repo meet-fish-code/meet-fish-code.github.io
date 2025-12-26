@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lee.png"
   name             : "李顺芝 / Shunzhi Li"
   pronouns         : "他 / he"
   bio              : "软件工程师 | WEB开发从业者 / Software Engineer | Full-Stack Web Developer"
