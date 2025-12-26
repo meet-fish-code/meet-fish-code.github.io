@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李顺芝"
-  pronouns         : "her"  
-  bio              : "软件工程师 | WEB开发（全栈）从业者"
-  location         : "Weifang, China"
+  name             : "李顺芝 / Shunzhi Li"
+  pronouns         : "他 / he"
+  bio              : "软件工程师 | WEB开发从业者 / Software Engineer | Full-Stack Web Developer"
+  location         : "潍坊, 中国 / Weifang, China"
   # employer         : "Red Brick University"
   uri              : #URL
   email            : "meetlee6314@gmail.com" 
