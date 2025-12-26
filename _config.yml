@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "李顺芝"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "her"  
+  bio              : "美好从相遇开始"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
